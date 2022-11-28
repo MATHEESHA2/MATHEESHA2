@@ -81,3 +81,4 @@ Here are some ideas to get you started:
 
 [![Metrics](https://github.com/DARKEMPIRESL/DARKEMPIRESL/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/DARKEMPIRESL/DARKEMPIRESL/actions/workflows/main.yml)
 
+<a href="https://open.spotify.com/playlist/40mal62pQivzTk6WNjaE5Q?si=90ca72594a704fce" target="_blank" alt="Spotify now playing"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>

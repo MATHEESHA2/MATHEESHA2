@@ -79,6 +79,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/DARKEMPIRESL/DARKEMPIRESL/blob/main/github-metrics.svg" alt="Metrics">
 
 
-[![Metrics](https://github.com/DARKEMPIRESL/DARKEMPIRESL/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/DARKEMPIRESL/DARKEMPIRESL/actions/workflows/main.yml)
+[![Metrics](https://github.com/DARKEMPIRESL/DARKEMPIRESL/actions/workflows/Metrics.yml/badge.svg)](https://github.com/DARKEMPIRESL/DARKEMPIRESL/actions/workflows/Metrics.yml)
+
+### Spotify Playing 🎧
 
 <a href="https://open.spotify.com/playlist/40mal62pQivzTk6WNjaE5Q?si=90ca72594a704fce" target="_blank" alt="Spotify now playing"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>

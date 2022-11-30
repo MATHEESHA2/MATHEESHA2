@@ -89,4 +89,4 @@ jobs:
           plugin_people_types: followers, following
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_rss_source: https://www.slbots.org/
+          plugin_rss_source: https://zapier.com

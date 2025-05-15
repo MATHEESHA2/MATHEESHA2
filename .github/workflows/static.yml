@@ -1,42 +1,32 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: GitHub Metrics
 
 on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow one concurrent deployment
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
 jobs:
-  # Single deploy job since we're just deploying
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Setup Pages
-        uses: actions/configure-pages@v2
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
-          # Upload entire repository
-          path: '.'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
+          user: MATHEESHA2
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Colombo
+          filename: metrics.svg
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Commit and Push Metrics
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add metrics.svg
+          git commit -m "Update metrics.svg" || echo "No changes to commit"
+          git push

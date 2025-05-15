@@ -1,13 +1,26 @@
-name: Metrics
+name: GitHub Metrics Generation
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:      # Allows manual triggering
+    - cron: "30 18 * * *"  # Runs daily at 00:00 (midnight) Asia/Colombo time (18:30 UTC)
+  workflow_dispatch:       # Allows manual triggering
+  push:
+    branches:
+      - main
+
 jobs:
-  metrics:
+  generate-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: MATHEESHA2
@@ -17,3 +30,14 @@ jobs:
             - activity
             - languages
             - habits
+            - followers
+            - repositories
+          filename: metrics.svg
+
+      - name: Commit and Push Metrics
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add metrics.svg
+          git commit -m "Automated metrics update [skip ci]"
+          git push

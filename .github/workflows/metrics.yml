@@ -8,10 +8,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: 📥 Checkout repository
-        uses: actions/upload-artifact@v4.3.1
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: 🧮 Generate GitHub Metrics
+      - name: Generate GitHub Metrics SVG
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
@@ -19,10 +19,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Colombo
 
-      - name: 🚀 Commit and push metrics.svg
+      - name: Commit and push metrics.svg
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add metrics.svg
           git commit -m "📊 Update GitHub Metrics"
           git push

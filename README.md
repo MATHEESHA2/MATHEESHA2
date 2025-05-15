@@ -1,86 +1,97 @@
+<h1 align="center">Hi there, I'm G.P. Matheesha 👋</h1>
+
+<p align="center">
+  🎓 Engineering Undergraduate | 🤖 Aspiring AI/ML Engineer | 💻 Full-Stack Developer | 🚀 Entrepreneur
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MATHEESHA2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Engineering undergraduate at University of Ruhuna  
+- ⚙️ Passionate about AI, ML, and Secure System Design  
+- 💻 Full-stack developer with hands-on experience in scalable app development  
+- 🧠 Creative problem solver with a passion for automation and innovation  
+- 🔧 Builds from scratch: bots, engines, dashboards, apps, and more  
+- 🧑‍💼 Entrepreneur with a passion for technology-driven solutions  
+
+---
+
+### 🚀 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=cpp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000?style=flat&logo=kalilinux)
+![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MATHEESHA2&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATHEESHA2&layout=compact&theme=radical&hide_border=true" height="180px"/>
+</p>
+
+---
+
+### 💡 Projects & Creations
+
+| Project / Type        | Description                                           | Stack/Tools Used |
+|----------------------|-------------------------------------------------------|------------------|
+| 🧾 Xpense Guru        | Smart AI-powered expense manager app for Android     | Android, Firebase, Java/Kotlin |
+| 🤖 Telegram Bots      | Custom bots for automation, scheduling, reminders    | Python, Node.js, MongoDB |
+| ♟️ Chess Engines       | Built native and AI-powered chess engines            | C++, Python |
+| 🌐 Dynamic Websites    | Full-stack responsive web apps with backend logic    | React, Node.js, PHP, SQL, MongoDB |
+| 💼 Business Software  | Custom desktop apps for inventory, accounts, POS     | Python, SQLite, PyQt |
+| 🔒 Secure Auth Systems | Advanced login/signup with animations and encryption | HTML, CSS, JS, PHP |
+| 🧳 Trip Planner App   | Multi-user date sync and travel scheduling tool      | JS, PHP, SQLite |
+
+> **More projects are available in the pinned repos. Feel free to explore!**
+
+---
+
+### 📬 Let's Connect
+
+<p align="left">
+  <a href="mailto:matheeshagp1@gmail.com"><img src="https://img.shields.io/badge/Email-matheeshagp1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/matheesha-gamage" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://web.facebook.com/profile.php?id=61557602693339" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/matheeshagp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚡ Personal Motto
+> "Stay curious. Build things. Solve real problems."
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MATHEESHA2&theme=onedark&no-frame=true&no-bg=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MATHEESHA2&theme=radical&hide_border=true" />
+</p>
+
+---
+
 <!--
-**MATHEESHA2/MATHEESHA2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⭐️ From [MATHEESHA2](https://github.com/MATHEESHA2)
 -->
-<h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/MATHEESHA2/MATHEESHA2/blob/a8bc06c5130bd49cf6a679c758b1b526703e69af/GIFS/74bc5c25eb8a960229f43545854aabdd.gif" width="50px" style="max-width:100%;"></a>𝔥𝔢𝔩𝔩𝔬!<a target="_blank"><img src="https://github.com/MATHEESHA2/MATHEESHA2/blob/a8bc06c5130bd49cf6a679c758b1b526703e69af/GIFS/Hi.gif" width="40px" /></a></h1>
-
-<p>
-  <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝔥𝔢𝔩𝔩𝔬+I'm+𝕯𝖆𝖗𝖐+𝕰𝖒𝖕𝖎𝖗𝖊!;This+is+My+profile!;&font=Fira%20Code&center=true&size=75&width=1000&height=150"><br>
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+𝖕𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖊𝖗;&font=Fira%20Code&center=true&size=40&width=400&height=75">
-</p>
-
-
-
-- 🔭 I’m currently working on ... 𝖘𝖙𝖚𝖉𝖞𝖎𝖓𝖌
-- 🌱 I’m currently learning ... 𝔭𝖗𝖔𝖌𝖗𝖆𝖒𝖎𝖓𝖌
-- 👯 I’m looking to collaborate on ... <b>𝔴𝖊𝖇 𝔡𝔢𝔳𝔢𝔩𝔬𝔭𝔦𝔫𝔤</b>
-- 🤔 I’m looking for help with ... 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌
-- 💬 Ask me about ... [𝖍𝖊𝖗𝖊](https://github.com/MATHEESHA2)
-- 📫 How to reach me: ...[@𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊](https://t.me/SL_BOTS_TM)
-- 😄 Pronouns: ...𝖍𝖎𝖒/𝖍𝖎𝖘/𝖍𝖊
-- ⚡ Fun fact: ...𝕿𝖍𝖊 𝖒𝖔𝖘𝖙 𝖋𝖚𝖓𝖓𝖞 𝖙𝖍𝖎𝖓𝖌 𝖎𝖘 𝖘𝖙𝖚𝖉𝖞𝖎𝖓𝖌 𝖕𝖍𝖞𝖘𝖎𝖈𝖘😍🔥😎
-
-
-
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MATHEESHA2&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-
-#
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=MATHEESHA2&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/MATHEESHA2)
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MATHEESHA2/count.svg" />
-</p>
-
-
-
-
-
-
-#
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
-  <p align="center">
-  <a href="https://github.com/MATHEESHA2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MATHEESHA2&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/MATHEESHA2">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATHEESHA2&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-</details>
-<br>
-
-
-
-</details>
-
-<img src="https://github.com/MATHEESHA2/MATHEESHA2/blob/main/github-metrics.svg" alt="Metrics">
-
-
-[![Metrics](https://github.com/MATHEESHA2/MATHEESHA2/actions/workflows/Metrics.yml/badge.svg)](https://github.com/MATHEESHA2/MATHEESHA2/actions/workflows/Metrics.yml)
-
-### Spotify Now Playing 🎧
-
-<a href="https://open.spotify.com/playlist/40mal62pQivzTk6WNjaE5Q?si=90ca72594a704fce" target="_blank" alt="Spotify now playing"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>

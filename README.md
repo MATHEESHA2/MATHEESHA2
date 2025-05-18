@@ -90,7 +90,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MATHEESHA2&theme=radical&hide_border=true" />
 </p>
 
-![Metrics](https://metrics.lecoq.io/MATHEESHA2?template=classic)
+![Metrics](./metrics.svg)
+
 
 ---
 
